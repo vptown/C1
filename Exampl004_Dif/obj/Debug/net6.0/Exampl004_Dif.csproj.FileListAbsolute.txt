@@ -1,0 +1,15 @@
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\bin\Debug\net6.0\Exampl004_Dif.exe
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\bin\Debug\net6.0\Exampl004_Dif.deps.json
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\bin\Debug\net6.0\Exampl004_Dif.runtimeconfig.json
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\bin\Debug\net6.0\Exampl004_Dif.dll
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\bin\Debug\net6.0\Exampl004_Dif.pdb
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\Exampl004_Dif.csproj.AssemblyReference.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\Exampl004_Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\Exampl004_Dif.AssemblyInfoInputs.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\Exampl004_Dif.AssemblyInfo.cs
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\Exampl004_Dif.csproj.CoreCompileInputs.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\Exampl004_Dif.dll
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\refint\Exampl004_Dif.dll
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\Exampl004_Dif.pdb
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\Exampl004_Dif.genruntimeconfig.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl004_Dif\obj\Debug\net6.0\ref\Exampl004_Dif.dll
