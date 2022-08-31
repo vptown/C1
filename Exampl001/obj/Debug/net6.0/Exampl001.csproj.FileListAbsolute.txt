@@ -1,0 +1,15 @@
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\bin\Debug\net6.0\Exampl001.exe
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\bin\Debug\net6.0\Exampl001.deps.json
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\bin\Debug\net6.0\Exampl001.runtimeconfig.json
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\bin\Debug\net6.0\Exampl001.dll
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\bin\Debug\net6.0\Exampl001.pdb
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\Exampl001.csproj.AssemblyReference.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\Exampl001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\Exampl001.AssemblyInfoInputs.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\Exampl001.AssemblyInfo.cs
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\Exampl001.csproj.CoreCompileInputs.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\Exampl001.dll
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\refint\Exampl001.dll
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\Exampl001.pdb
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\Exampl001.genruntimeconfig.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl001\obj\Debug\net6.0\ref\Exampl001.dll
