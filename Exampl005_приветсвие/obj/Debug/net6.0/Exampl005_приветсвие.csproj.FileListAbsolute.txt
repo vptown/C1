@@ -1,0 +1,15 @@
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\bin\Debug\net6.0\Exampl005_приветсвие.exe
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\bin\Debug\net6.0\Exampl005_приветсвие.deps.json
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\bin\Debug\net6.0\Exampl005_приветсвие.runtimeconfig.json
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\bin\Debug\net6.0\Exampl005_приветсвие.dll
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\bin\Debug\net6.0\Exampl005_приветсвие.pdb
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\Exampl005_приветсвие.csproj.AssemblyReference.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\Exampl005_приветсвие.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\Exampl005_приветсвие.AssemblyInfoInputs.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\Exampl005_приветсвие.AssemblyInfo.cs
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\Exampl005_приветсвие.csproj.CoreCompileInputs.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\Exampl005_приветсвие.dll
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\refint\Exampl005_приветсвие.dll
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\Exampl005_приветсвие.pdb
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\Exampl005_приветсвие.genruntimeconfig.cache
+C:\Users\vptow\OneDrive\Рабочий стол\Examples\Exampl005_приветсвие\obj\Debug\net6.0\ref\Exampl005_приветсвие.dll
